@@ -23,7 +23,7 @@ Space X advertises Falcon 9 rocket launches on its website with a cost of 62 mil
 
 <h1>Methodology</h1>
 
-<h1>Data collection methodology:</h1>
+<h1>DATA COLLECTION METHODOLOGY:</h1>
 
 1. Data was collected using SpaceX API and web scraping from Wikipedia. 
 
